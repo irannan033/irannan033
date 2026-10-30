@@ -40,7 +40,7 @@ I enjoy working at the intersection of **engineering, software, and manufacturin
 ## 💼 Professional Experience
 
 ### Robotics Engineer (Senior Officer) 
-Manufacturing Excellence (ME), Industrial Engineering Department
+Manufacturing Excellence (ME), Industrial Engineering Department  
 **Amigo Bangladesh Ltd. | Crystal International Group**
 
 `October 2023 – Present`
@@ -52,8 +52,8 @@ Manufacturing Excellence (ME), Industrial Engineering Department
 - Managing Robotic Control System, Intelligent Warehouse Control System, and manufacturing system integration.
 - Working on manufacturing data integration, process optimization, and operational analytics.
 
-### Power System Modeling Consultant – BPDB
-**Amigo Bangladesh Ltd. | Crystal International Group**
+### Power System Modeling Consultant – Remote
+**Bangladesh Power Development Board**
 
 `May 2025 – September 2025`
 
@@ -76,7 +76,7 @@ Manufacturing Excellence (ME), Industrial Engineering Department
 | Issue Resolution | Up to 95% reduction in resolution time |
 | AGV/CTU Automation | Up to 20% manpower reduction in relevant operations |
 | AI-Based Motion Study | Estimated annual saving potential of $1.2M |
-| Visitor Management System | Estimated annual saving potential of $70K |
+| Visitor Management System | Estimated annual savings potential of $70K |
 
 ---
 

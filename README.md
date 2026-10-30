@@ -40,7 +40,7 @@ I enjoy working at the intersection of **engineering, software, and manufacturin
 ## 💼 Professional Experience
 
 ### Robotics Engineer (Senior Officer) 
-– Manufacturing Excellence (ME), Industrial Engineering Department
+Manufacturing Excellence (ME), Industrial Engineering Department
 **Amigo Bangladesh Ltd. | Crystal International Group**
 
 `October 2023 – Present`
